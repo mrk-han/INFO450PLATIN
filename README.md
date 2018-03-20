@@ -34,14 +34,14 @@
 ### Note: 
 - Rules represent a variation to the standard Pig Latin translation
 
-## Non Functinal Requirements:
+## Non Functional Requirements:
 - The translator program will only translate words that are 50 characters or less and the user’s input is guaranteed to be 50 characters or less.
 - The program should use C-string to store and process the word.
 - The program should include a function: translateToPigLatin that performs the following:
-- Translates the word that is passed as a parameter to the function into Pig Latin.
-- Displays the translated word to the console
-- Returns 0 if successful and -1 if not successful
-- Example – empty string! – nothing to translate OR a word that begins w/ a number – cannot be translated
+	- Translates the word that is passed as a parameter to the function into Pig Latin.
+	- Displays the translated word to the console
+	- Returns 0 if successful and -1 if not successful
+		- Example – empty string! – nothing to translate OR a word that begins w/ a number – cannot be translated
 - The main program should include a loop that will continue to ask for input and translate words until the user chooses to quit.
 
 ### Extra credit :
