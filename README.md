@@ -1,6 +1,6 @@
 # INFO450PLATIN
 
--GIF goes here
+- GIF goes here
 
 ## Topics Covered: 
 - Arrays
@@ -32,7 +32,7 @@
 - Allow the user to enter a sentence and translate the entire sentence to pig Latin using the above rules
 
 ### Note: 
-- rules represent a variation to the standard Pig Latin translation
+- Rules represent a variation to the standard Pig Latin translation
 
 ## Non Functinal Requirements:
 - The translator program will only translate words that are 50 characters or less and the user’s input is guaranteed to be 50 characters or less.
@@ -58,7 +58,7 @@
 
 
 
-## Submission Requirements
+## Submission Requirements:
 - You should upload your program to your github account in a repository called: INFO450PLATIN
 - Turn in your project on blackboard by uploading the URL to your github repository
 - Note: coding standards adherence will now be part of the overall grade for the project
